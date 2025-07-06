@@ -79,6 +79,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AbdelrahmanZ08/boudy/refs/heads/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AbdelrahmanZ08/boudy/refs/heads/output/snake.svg?token=GHSAT0AAAAAAC7UMP55BETXXQL3MR755OVQ2DKECRQ" alt="Snake animation" />
 
 ###
